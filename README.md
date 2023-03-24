@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @teachbarefoot
-- 👀 I’m interested in Java, automated theorem provers, and making games with pico8.
+- 👋 Hi, I’m @hotdogontology
+- 👀 I’m interested in Java, interactive theorem provers, and making games with pico8.
 - 🌱 I’m currently learning Java, LEAN, and Lua.
 - 💞️ I’m looking to collaborate on LEAN.
 - 📫 You can send me an email at tbelcher (at) governors dot school.
