@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hotdogontology
-- 👀 I’m interested in interactive and automated theorem proving and making games with pico8.
-- 🌱 I’m currently learning LEAN and Agda.
+- 👀 I’m interested in interactive and automated theorem proving and making games with PICO-8.
+- 🌱 I’m currently learning Agda and Lean.
 - 💞️ I’m looking to collaborate on teaching proof writing with computers.
 - 📫 You can send me an email at tbelcher (at) governors dot school.
 
